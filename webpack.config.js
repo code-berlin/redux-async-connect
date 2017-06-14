@@ -20,6 +20,12 @@ module.exports = {
                 commonjs2: 'react-router',
                 commonjs: 'react-router',
                 amd: 'react-router'
+            },
+            'prop-types': {
+                root: 'PropTypes',
+                commonjs2: 'prop-types',
+                commonjs: 'prop-types',
+                amd: 'prop-types'
             }
         }
     ],
